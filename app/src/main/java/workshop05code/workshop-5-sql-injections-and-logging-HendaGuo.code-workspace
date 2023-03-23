@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../../../.."
+		},
+		{
+			"name": "[MQCOMP3310-2023/workshop-5-sql-injections-and-logging-HendaGuo source archive]",
+			"uri": "codeql-zip-archive://0-142/Users/hendaguo/Library/Application Support/Code/User/workspaceStorage/2456921ed6f83864bbb8dd6935cbcca8/GitHub.vscode-codeql/java/java/src.zip"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive",
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
